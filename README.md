@@ -5,7 +5,7 @@ Text mining and natural language processing
 ## Description
 Text: https://www.gutenberg.org/cache/epub/72862/pg72862.txt
 
-An important aspect to text mining and natural language processing is measuring word frequency and trends in word usage. This project deals with a simple exercise in loading a text file into Python and computing word frequency statistics and trends. It requires usage of text files, strings and dataframes.There two importat txt files that we will be working with. The first file is WordText.txt which contains the actual text the program will be using. The second file is stop_words.txt which contain stops words that will be romved from the WordTxt.Txt during the excution. 
+An important aspect to text mining and natural language processing is measuring word frequency and trends in word usage. This project deals with a simple exercise in loading a text file into Python and computing word frequency statistics and trends. It requires usage of text files, strings and dataframes.There are two importat txt files that we will be working with. The first file is WordText.txt which contains the actual text the program will be using. The second file is stop_words.txt which contain stops words that will be romved from the WordTxt.Txt during the excution. 
 I will be working with the following  text :https://www.gutenberg.org/cache/epub/72862/pg72862.txt
 
 This project consists of three parts.
