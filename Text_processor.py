@@ -53,6 +53,8 @@ def find_sublist(list, word1, word2):
 def get_occurance_by_chapter():
         chapters =['chapter1','chapter2','chapter3','chapter4','chapter5']
         Length = len(Top_six_words)
+        print(Length)
+        # I will refactor this function and improve it's logic implementation
         for word in range(Length): 
             word = Top_six_words[word]
             chapterA = chapters[0]
