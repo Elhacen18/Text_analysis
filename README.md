@@ -5,7 +5,7 @@ Text mining and natural language processing
 ## Description
 Text: https://www.gutenberg.org/cache/epub/72862/pg72862.txt
 
-An important aspect to text mining and natural language processing is measuring word frequency and trends in word usage. This project deals with a simple exercise in loading a text file into Python and computing word frequency statistics and trends. It requires usage of text files, strings and dataframes.There two importat txt files that we will be working with. The first file is WordText.txt which contains the actual text the program will be using. The second file is stop_words.txt which contain stops words that will be romved from the WordTxt.Txt during the excution. 
+An important aspect to text mining and natural language processing is measuring word frequency and trends in word usage. This project deals with a simple exercise in loading a text file into Python and computing word frequency statistics and trends. It requires usage of text files, strings and dataframes.There are two importat txt files that we will be working with. The first file is WordText.txt which contains the actual text the program will be using. The second file is stop_words.txt which contain stops words that will be romved from the WordTxt.Txt during the excution. 
 I will be working with the following  text :https://www.gutenberg.org/cache/epub/72862/pg72862.txt
 
 This project consists of three parts.
@@ -20,7 +20,7 @@ In this part, we will load the entire text into a python list.
 After this step, we will print a dataframe with two columns, Word and Count. The Word column will display each word in the text and the Count column will dispaly the number of each word in the entire text. The words will be sorted in the order they appear in the WordText.txt file.
 
 Part B:
-In this part, we will creat modified version of the dataframe in part A. However, this dataframe will not contain any words listed in the stop_words.txt file. This modified version will sorted by word count(Count) in decreasing order.
+In this part, we will creat modified version of the dataframe in part A. However, this dataframe will not contain any words listed in the stop_words.txt file. This modified version will be sorted by word count(Count) in decreasing order.
 
 Par C:
 In this part, we will be working with matplot to plot top six occuring words in the entire text. 
