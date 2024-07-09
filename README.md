@@ -11,7 +11,7 @@ I will be working with the following  text :https://www.gutenberg.org/cache/epub
 This project consists of three parts.
 
 IMPORTANT
-Before starting these parts, it would very helpfull for you remove all special 
+Before starting these parts, it would very helpfull for you remove all special characters.  
 Use this website to remove all specail characters:
 https://www.text-utils.com/remove-special-characters/
 
